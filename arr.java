@@ -6,8 +6,7 @@ public class arr {
 
         System.out.println("Enter 3 number: ");
         for(int i=0;i<numbers.length;i++){
-            System.out.println("Enter number: " + i);
-           
+            
             numbers[i]=sc.nextInt();
 
         }
